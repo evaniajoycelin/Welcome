@@ -3,7 +3,7 @@ Hai, I am Evania Joycelin!
 I come so far from Maumere, East Nusa Tenggara, Indonesia. Currently I am studying Mathematics and Computer Science at Binus University. 
 
 Soon, I will start my first moment to get a internship, I am so excited!
-I am gonna use this github to collect some of my works, I have done or currently going in college and outside the college. 
+I am gonna use this github to collect some of my works that I have done or currently working in college and outside the college. 
 
 ## Skill
 ### Front-End
