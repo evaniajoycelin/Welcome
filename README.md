@@ -14,3 +14,5 @@ I am gonna use this github to collect some of my works that I have done or curre
 
 For frameworks such as jQuery, node.js, express.js, and bootstrap. I learn them by myself in this covid pandemic. 
 Currently I am trying to learn R and SQL for data science. 
+
+Let's collaborate!
